@@ -1,3 +1,4 @@
+
 #Zadanie1
 numbers = [1,2,3,4,5,6,7,8,9,10]
 cubes = [number * number * number for number in numbers]
@@ -12,3 +13,5 @@ newer_list = [number for number in new_list if number == 0]
 newest_list = [number for number in new_list if number != 0]
 print(newer_list)
 print(newest_list)
+
+print("kod lujka")
